@@ -17,7 +17,7 @@ def golden_ratio(n):
     elif n==1:
         print("golden ratio cannot be calculated")
     elif n==2:
-        print("division by 0 not possible")
+        print("golden ratio cannot be calculated")
     
     else:
         n1=fibonacci_(n)
